@@ -7,7 +7,7 @@
 ## Scenario
 - Login in to the system as an admin
 - Create Customer
-- Creatw Agent
+- Create Agent
 - Check Customer and Agent balance
 - Get customer and agent ID
 - Deposit money to Agent from the system
