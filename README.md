@@ -1,7 +1,7 @@
 # Api-Automation-with-Newman
 
 ## Technology and tools used
-- Poatman
+- Postman
 - Newman
 
 ## Scenario
